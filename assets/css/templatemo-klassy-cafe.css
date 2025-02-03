@@ -231,7 +231,7 @@ header
 }
 
 .header-area {
-  background-color: #fff;
+  background-color: #2a2a2a;
   position: absolute;
   top: 0px;
   left: 0px;
@@ -310,7 +310,7 @@ header
 }
 
 .header-area .main-nav .nav li a {
-  color: #2a2a2a;
+  color: #fff;
 }
 
 .header-area .main-nav .nav li:hover a,
